@@ -6,6 +6,8 @@ The corpus contains 42,000 files with 46,904,591 tokens (109M Gemma). It consist
 
 The corpus is available under CC BY license for non-commercial research purposes. It is designed as a dataset for applied linguistic studies, providing a valuable resource for research on Ukrainian literature, language development, and cultural history of the 19th and early 20th centuries. The corpus provides a wide range of metadata for each text, including information about authors, translators, years of publication, genres, styles, and locations. It's planned to be updated once a year to keep the resource current and valuable for researchers.
 
+The texts of the corpus were recognized from printed sources using OCR and corrected manually. The corpus has detailed and extensive meta-annotation for each text: title, author, date of creation, style, region, original language, translator into Ukrainian, etc., and for most texts there is also information about the edition. Full lists of tags used in the meta-annotation are available on the GRAC website: [https://uacorpus.org/Kyiv/en/rozmitka-tekstiv/stili-tematika-i-zhanri](https://uacorpus.org/Kyiv/en/rozmitka-tekstiv/stili-tematika-i-zhanri)
+
 **Please cite** PluG:
 
 _Maria Shvedova, Arsenii Lukashevskyi (2024): PluG: Corpus of Old Ukrainian Texts. Electronic resource: Kharkiv, Jena. Available at [https://github.com/Dandelliony/pluperfect\_grac](https://github.com/Dandelliony/pluperfect_grac)_
