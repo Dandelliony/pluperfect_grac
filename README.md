@@ -15,7 +15,7 @@ It's planned to be updated yearly to keep the resource up-to-date and valuable f
 
 **Please cite** PluG:
 
-_Maria Shvedova, Arsenii Lukashevskyi (2024): PluG: Corpus of Old Ukrainian Texts. Electronic resource: Kharkiv, Jena. Available at [https://github.com/Dandelliony/pluperfect\_grac](https://github.com/Dandelliony/pluperfect_grac)_
+_Shvedova, M., & Lukashevskyi, A. (2026). PluG: A Corpus of 19th-and Early 20th-Century Ukrainian Texts. Journal of Open Humanities Data, 12: 77. DOI: https://doi.org/10.5334/johd.552_
 
   
 
